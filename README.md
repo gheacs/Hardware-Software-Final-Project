@@ -21,3 +21,22 @@ The purpose of this connected device is to identify the quality of sleep. To det
 ![Accelerometer](https://github.com/gheacs/Hardware-Software-Final-Project/blob/main/picture/Accelerometer.png)  
 **Function:** An accelerometer in this system measures the physical movement of the person during sleep. It can detect motions ranging from slight twitches to larger movements.  
 **Importance in Sleep Monitoring:** Physical movement during sleep can be a strong indicator of sleep quality. Restless movements might suggest discomfort or interruptions in sleep stages. The accelerometer data can help in identifying patterns of restlessness or calm in sleep.
+
+### Display Device
+![Display](https://github.com/gheacs/Hardware-Software-Final-Project/blob/main/picture/display%20device.png)    
+1. Display device with an OLED screen, designed to display the quality of sleep.   
+2. The screen shows a sleep quality meter, similar to a speedometer, with a needle indicating the current sleep quality level.   
+3. On the side of the device, there's a prominent on/off button.
+
+### Architecture of Sleep Monitoring System
+![System](https://github.com/gheacs/Hardware-Software-Final-Project/blob/main/picture/Proposed%20Flow.png)   
+The proposed system:
+1. Data is transferred from sensor to microcontroller.  
+2. With pre-trained simplified algorithm, ESP32 can make analysis about the patient’s sleep quality.  
+3. The analysis would be shown in the output visualization.  
+
+### Decision Tree - Interpreting Sleep Environment
+**Note: TBC on the threshold for each sensors**
+
+
+
