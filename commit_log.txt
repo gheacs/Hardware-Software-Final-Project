@@ -1,0 +1,113 @@
+commit 389a8b83c08a75c0c9955f309f45c1133ab2142c
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Wed Jan 17 04:54:11 2024 +0000
+
+    remove datasheets from main
+
+commit 9a240eb585315ccd39cb98f97544ee8bac7453e4
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Wed Jan 17 04:52:36 2024 +0000
+
+    move datasheets to folder
+
+commit ea9f8f69f70e56dda2af9c43c8ebd8505e035f8c
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 20:50:25 2024 -0800
+
+    Add datasheets
+
+commit b4d91b0554fd5fe47a5cdd66631670a93b11b214
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:59:10 2024 -0800
+
+    Update README.md
+
+commit b86b869ffa2233dbe82943707ed503752ab82719
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:58:29 2024 -0800
+
+    Add decision tree oic
+
+commit 9bd489c0852ae9220cd54fe2387254fa76344122
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:57:28 2024 -0800
+
+    Update README.md
+    
+    More detail on the display device and proposed flow
+
+commit aec36b68006293ab3ef69e22ea212f921c963572
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:52:55 2024 -0800
+
+    Update README.md
+    
+    Add sensors picture
+
+commit 24c327f649e2f6eb42a12f22c61e52010f0fc3c5
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:49:03 2024 -0800
+
+    Add picture via upload
+
+commit f8b610c715fd5f4d54fc690fbd4cf7bd5453c352
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Wed Jan 17 03:48:07 2024 +0000
+
+    create picture folder
+
+commit 600be6bdb123a24e357c3862dfde382bda5b7fd0
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Wed Jan 17 03:47:35 2024 +0000
+
+    revise first sketch url
+
+commit 66b51a610b3836590eb9504f34597fcb05d5d3b9
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:43:12 2024 -0800
+
+    Update README.md
+    
+    Add sensors detail
+
+commit cca50217e5bccd9686220bad832a1a2afdd533e3
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:38:56 2024 -0800
+
+    Update README.md
+    
+    Revise device sketch url
+
+commit ccab83847d5443aada30d7df08f9ec1e6aae822f
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:37:54 2024 -0800
+
+    Update README.md
+    
+    Change device sketch path
+
+commit 5ea903c02abc9e499714e9d1b8f10a4b8c1a754e
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:36:03 2024 -0800
+
+    Update README.md
+    
+    Add device sketch
+
+commit b59f244804f10436826f1dbc9918e055f9da15ad
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:33:37 2024 -0800
+
+    Add device sketch
+
+commit 3478a850e45057da3c1c2c70b58989cd66ee58ac
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:32:06 2024 -0800
+
+    Update README.md
+
+commit 8caef28aae11d5a421adba99d0764f84eab92f47
+Author: Ghea Chrestella Suyono <132538718+gheacs@users.noreply.github.com>
+Date:   Tue Jan 16 19:29:58 2024 -0800
+
+    Initial commit
