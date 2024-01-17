@@ -38,5 +38,7 @@ The proposed system:
 ### Decision Tree - Interpreting Sleep Environment
 **Note: TBC on the threshold for each sensors**
 
+![Decision Tree](https://github.com/gheacs/Hardware-Software-Final-Project/blob/main/picture/Decision%20tree.png)   
+
 
 
